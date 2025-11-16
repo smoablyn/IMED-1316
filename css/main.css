@@ -4,13 +4,13 @@ h1, h2 {
 }
 
 .navbar {
-    background-color: ##010203 !important;
+    background-color: ##ffffff !important;
 }
 
 .blinn-footer-container {
     background-color: var(--secondaryColor) !important;
     padding: 40px;
-    color: ##010203;
+    color: ##ffffff;
 }
 
 
